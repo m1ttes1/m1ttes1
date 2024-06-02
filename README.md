@@ -24,5 +24,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 📫 Entre em Contato
 
-    LinkedIn: [https://www.linkedin.com/in/vmittestainerdev/]
+    LinkedIn: https://www.linkedin.com/in/vmittestainerdev/
     E-mail: vmittestainer.dev@gmail.com
