@@ -16,8 +16,7 @@
 ## 🚀 Projetos em Destaque
 
 - [YTB-Video-downloader](https://github.com/m1ttes1/YTB-Video-downloader): Ferramenta para baixar vídeos e áudios do YouTube.
-- [Jogo-ache-o-numero-secreto](https://github.com/m1ttes1/Jogo-ache-o-numero-secreto): Meu primeiro jogo em C#.
-- [ScreenSound](https://github.com/m1ttes1/ScreenSound): Projeto ScreenSound em C#.
+- [AluraPlus](https://aluraplus-rho-navy.vercel.app/): Seu projeto AluraPlus.
 
 ## 📫 Entre em Contato
 
