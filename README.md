@@ -1,11 +1,8 @@
 Olá! 👋
-
-Sou estudante de Análise e Desenvolvimento de Sistemas.
 📚 Sobre Mim
 
     🎓 Estudante de Análise e Desenvolvimento de Sistemas.
     💻 Desenvolvedor Python e entusiasta de projetos de código aberto.
-    🌱 Sempre aprendendo e buscando novos desafios.
 
 🛠️ Tecnologias
 
