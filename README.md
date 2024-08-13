@@ -17,6 +17,8 @@
 
 - [YTB-Video-downloader](https://github.com/m1ttes1/YTB-Video-downloader): Ferramenta para baixar vídeos e áudios do YouTube.
 - [AluraPlus](https://aluraplus-rho-navy.vercel.app/): Projeto AluraPlus.
+- [AluraBooks](https://m1ttes1.github.io/alurabook/): Projeto AluraBook
+
 
 ## 📫 Entre em Contato
 
