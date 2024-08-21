@@ -17,7 +17,7 @@ I've worked on various projects, from web applications to video downloaders, and
 
 ## 🚀 Featured Projects
 
-1. **[FokusFlow](https://github.com/m1ttes1/fokusflow):**
+1. **[FokusFlow](https://m1ttes1.github.io/fokusflow/):**
    - A web-based countdown timer based on the Pomodoro technique, allowing users to switch between focus, short break, 
    and long break modes. Includes background music control and visual timer.
 
