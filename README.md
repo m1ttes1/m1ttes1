@@ -3,9 +3,7 @@
 
 ## 🌟 About Me
 
-I'm Victor Mittestainer, a Systems Analysis and Development student with 9 months of experience in backend development, particularly in Python and C#. I'm also building my knowledge in frontend technologies like HTML, CSS, and JavaScript.
-
-I've worked on various projects, from web applications to video downloaders, and I’m committed to continually learning and growing as a developer. My goal is to secure an internship where I can apply what I've learned, gain new experiences, and further develop my skills in the tech industry.
+I'm Victor Mittestainer, a Systems Analysis and Development student.
 
 ## 🛠️ Langs
 
