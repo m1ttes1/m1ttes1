@@ -1,5 +1,4 @@
-# Victor Mittestainer  
-English C2 
+# Victor Mittestainer 
 ---
 
 ### Stack
