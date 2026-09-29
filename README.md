@@ -1,9 +1,5 @@
-# Victor Mittestainer
-
-CX & Data Analyst at **Wevy** (Cloud IaaS/SaaS/PaaS) · São Paulo, Brazil  
-2+ years delivering Power BI dashboards and ETL pipelines for industrial clients.  
-English C2 — four years in Boston & San Diego.
-
+# Victor Mittestainer  
+English C2 
 ---
 
 ### Stack
